@@ -89,32 +89,11 @@ https://drive.google.com/file/d/1rURvni0TsKArcEWQa6sLzbjyxyVf7yiH/view?usp=shari
 
 ---
 
-## 📎 **Project Assets**
-
-### 📁 Folder Structure
-.
-├── data/
-│ ├── raw_dataset.csv
-│ ├── df_rating.csv
-│ └── df_sentiment.csv
-│
-├── notebooks/
-│ └── sentiment_analysis.ipynb
-│
-├── presentation/
-│ ├── Customer_Satisfaction_Presentation.pdf
-│ └── Customer_Satisfaction_Presentation.pptx
-│
-└── Dashboard Sentiment Analysis.pdf
-
-
----
-
 ## 🎥 **Presentation Video**
 Here is my presentation uploaded on LinkedIn 👇  
 🔗 https://www.linkedin.com/posts/iftanul-ibnu_today-im-sharing-the-results-of-my-customer-activity-7403242944939667456-mqqI
 
-(*GitHub tidak mendukung upload video langsung, jadi link eksternal sudah sesuai best practice.*)
+
 
 ---
 
